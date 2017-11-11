@@ -1,3 +1,5 @@
 Hey,
 
 I am a newbie to git. Just learning git commands and features
+
+I have just edited the file to check update feature

@@ -1,0 +1,3 @@
+Hey,
+
+I am a newbie to git. Just learning git commands and features
